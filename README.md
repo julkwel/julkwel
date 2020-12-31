@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm `Jul` but everybody call me `Julkwel`, `[OpenSource,PHP, Javascript]` enthusiast, work at [Bocasay](http://bocasay.com/) as `Symfony` and `JavaScript` developer 😎.
+I'm `Jul`, `[OpenSource, PHP and Javascript]` enthusiast, work at [Bocasay](http://bocasay.com/) as `Symfony` and `JavaScript` developer 😎.
 
 Me on github                                                                                                                                    | Most used languages |
 ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
